@@ -40,4 +40,6 @@ a {
 body {
     background-color: rgba(0, 0, 0, 0.63);
     background-image: url(background.jpg);
+    background-size: cover;
+    background-position: 50%;
 }
