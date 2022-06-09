@@ -1,0 +1,43 @@
+img.avatar {
+    height: 10%;
+    width: 30%;
+    border-radius: 50%;
+    
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+}
+
+ul  {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+}
+
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+    color: black;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+    color: black;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+    color: black;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.63);
+    background-image: url(background.jpg);
+}
