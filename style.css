@@ -2,44 +2,74 @@ img.avatar {
     height: 10%;
     width: 30%;
     border-radius: 50%;
-    
+
 }
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 1px 1px 4px black;
+    background-color: lightskyblue;
+    opacity: 0.8;
+    justify-content: center;
+    
+    
+    
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 4px black;
+    background-color: lightskyblue;
+    opacity: 0.8;
 }
 
 h3 {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 1px 1px 4px black;
+    background-color: lightskyblue;
+    opacity: 0.8;
 }
 
-ul  {
+ul {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 1px 1px 4px black;
+    background-color: lightskyblue;
+    opacity: 0.8;
 }
 
 ol {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 1px 1px 4px black;
     color: black;
+    background-color: lightskyblue;
+    opacity: 0.8;
 }
 
 li {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 1px 1px 4px black;
     color: black;
+    background-color: lightskyblue;
+    opacity: 0.8;
 }
 
 a {
     font-family: 'Courier New', Courier, monospace;
     text-shadow: 1px 1px 4px black;
     color: black;
+    
 }
+
 body {
     background-color: rgba(0, 0, 0, 0.63);
     background-image: url(background.jpg);
     background-size: cover;
     background-position: 50%;
+}
+
+div.topo {
+    background-image: url(backgroundtopo.jpg);
+    background-size: cover;
+    background-position: 50%;
+    border-style: inset; 
 }
